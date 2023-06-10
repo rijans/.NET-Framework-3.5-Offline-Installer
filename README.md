@@ -13,6 +13,6 @@ Using this tool, you can automatically install .NET Framework 3.5, 3 and 2 on Wi
 
 **Links**
 
-Exe Download: https://github.com/rijans/.NET-Framework-3.5-Offline-Installer/releases
+Exe Download: [https://github.com/rijans/.NET-Framework-3.5-Offline-Installer/releases](https://github.com/rijans/.NET-Framework-3.5-Offline-Installer/releases)
 
-Tool Details and Usage guide: https://www.techgainer.com/tools/net-framework-3-5-offline-installer-windows-10-8-x/
+Usage guide: [https://www.techgainer.com/tools/net-framework-3-5-offline-installer-windows-10-8-x/](https://www.techgainer.com/offline-install-net-framework-3-5-windows-10-8-easily/)
