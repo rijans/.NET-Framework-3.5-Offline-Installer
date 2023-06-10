@@ -3,13 +3,12 @@
 Using this tool, you can automatically install .NET Framework 3.5, 3 and 2 on Windows 10, 8 and 8.1 without internet connection.
 
 **Features**
-
-*Portable.
-*Quick install .NET Framework 3.5, 3 and 2.
-*Supports both DVD and Virtually mounted ISO.
-*Automatic check for presence of source for the selected location.
-*Advanced installation tab to customize every command and debug.
-*Option to Show/Hide CMD console.
+* Portable.
+* Quick install .NET Framework 3.5, 3 and 2.
+* Supports both DVD and Virtually mounted ISO.
+* Automatic check for presence of source for the selected location.
+* Advanced installation tab to customize every command and debug.
+* Option to Show/Hide CMD console.
 
 **Links**
 
