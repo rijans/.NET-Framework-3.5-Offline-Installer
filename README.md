@@ -1,3 +1,4 @@
+![.NET Framework 3.5 Offline Installer for Windows 10 and 8]([relative%20path/to/img.jpg](https://i0.wp.com/www.techgainer.com/wp-content/uploads/2014/12/net-framework-3.5-offline-installer-advanced-mode.png?w=697&ssl=1)?raw=true ".NET Framework 3.5 Offline Installer for Windows 10 and 8")
 .NET Framework 3.5 Offline Installer for Windows 10 and 8
 
 Using this tool, you can automatically install .NET Framework 3.5, 3 and 2 on Windows 10, 8 and 8.1 without internet connection.
